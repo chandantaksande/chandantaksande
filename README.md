@@ -1,3 +1,4 @@
+![logo](https://github.com/chandantaksande/chandantaksande/blob/main/Yellow%20Corporate%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Chndan Taksande</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
